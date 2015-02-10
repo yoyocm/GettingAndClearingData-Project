@@ -4,6 +4,7 @@ This repository stores R scripts and some markdown files useful to explanation. 
 ## Avalaible files
 ### run_analysis.R
 This R script has to be runned in order to generate result.txt which is the result of treatments on Samsung data available [HERE](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+
 You can find the data description [HERE](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 To run the script, you have to download and unzip data on your working directory.
 
